@@ -5,3 +5,5 @@ COLORES
 #0A526B <----- oscuro(Verde aqua)
 #969696 <----- gris
 #9D9D9D <----- gris hover
+
+#9D9D9D <----- gris hover
